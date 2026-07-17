@@ -1,5 +1,5 @@
 # Branch para estudo do curso da professora Cibele Russo - Fundamentos em Ciências de Dados
-(Curso no YouTube)[https://youtube.com/playlist?list=PLt7qVSwRVn5b_WaicWfB_E7tzBXisBhbd&si=IDzUi9L7xUK55O2W]
+[Curso no YouTube](https://youtube.com/playlist?list=PLt7qVSwRVn5b_WaicWfB_E7tzBXisBhbd&si=IDzUi9L7xUK55O2W)
 ## Introdução a Data Analytics e Python
 - Coleta, organização, análise, interpretação dos dados
 - *perguntas chaves*: ==o que?; por que?; o que pode acontecer no futuro?; o que devemos fazer com base nesses dados?==
