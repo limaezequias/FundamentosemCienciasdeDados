@@ -23,3 +23,7 @@
 - contextualizado com o apoio das análises - descritiva, diagnóstica e preditiva - para elaborar perguntas que busquem maximizar os resultados (lucro, reduzir custos, controlar estoque, etc.). Exemplo: *"qual preço maximiza o lucro?"*
 ## Introdução ao Python para Ciência de Dados
 > ao final dessa aula, avaliar o conteúdo e aplicar o aprendizado com a contextualização da aula introdutória
+- aula focada em apresentar o uso do python no mercado de trabalho, e os princípios básicos para escrever código em python. Abordou a atribuição de variáveis, palavras reservadas e como consultar a relação dessas palavras reservadas, trouxe uma documentação sobre boas práticas para escrita do código - documentação oficial inclusive, abordando quando usar snake case, camel case e caixa alta. Também trouxe uma novidade que eu não aprofundei meu conhecimento em como utilizar, a famosa criação de objetos por meio da atribuição de classe.
+## O método científico
+- [Link da video aula no YouTube](https://youtu.be/ma69tOFDoLU?si=LL3uk0blp_OpKPiT)
+- A aula ainda não foi iniciada.
